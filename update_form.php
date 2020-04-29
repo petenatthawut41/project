@@ -1,4 +1,4 @@
-<?php  //update_form.php
+<?php  //update_form.php //อ่านทำไม
 include_once('conn.php');
 $year_ID = $_GET["year_ID"];
 $sql = ("SELECT
